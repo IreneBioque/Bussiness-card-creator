@@ -1,8 +1,10 @@
 # Business card creator 🗃️
 
 Esta aplicación consiste en un creador de tarjetas profesionales, donde debes rellenar los datos que aparecen en el formulario, y a continuación darle a crear tarjeta. Esta tarjeta se puede compartir directamente por Twitter a través de la web.
+El proyecto consistió en refactorizar un código heredado, generar los componentes necesarios usando React, desarrollar una API Rest y servidor básico, crear un motor de plantillas para visualizar las tarjetas creadas, siempre usando Scrrum como marco de referencia de trabajo.
 
 This application consists of a business card creator, where you have to fill in the details that appear on the form, and then click on create card. This card can be shared directly via Twitter through the web.
+The project consisted of refactoring a legacy code, generating the necessary components using React, developing a Rest API and basic server, creating a template engine to visualise the cards created, always using Scrrum as a framework.
 
 ## Comenzando 🚀 / Starting 🚀
 
@@ -176,6 +178,12 @@ Select the master branch and click on the **Deploy Branch** button.
 - **Ana Montegrifo** [Github](https://github.com/anamontegrifo)
 - **Claudia B Stein** [Github](https://github.com/ClaudiaBStein)
 
+## Colaboradores 🖊️ / Partners 🖊️
+
+- **Maitane Abad** -**Código Original** [Github](https://github.com/MaitaneAbad)
+- **Moni Lamas** -**Código Original** [Github](https://github.com/moniLamas)
+- **Ángela Miranda Rodriguez** -**Código Original** [Github](https://github.com/AMirandaRd)
+- **Clara Vilela** -**Código Original** [Github](https://github.com/ClaraVilelaJato)
 
 ## Licencia 📄 / Licence 📄
 
